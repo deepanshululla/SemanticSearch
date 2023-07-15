@@ -1,0 +1,6 @@
+secret
+
+*.ipynb_checkpoints
+./notebooks/data/
+./notebooks/database.sqlite
+*.idea
