@@ -1,4 +1,6 @@
 # Semantic Search Using Vector Databases
+
+Code and slides for the talk I gave on this topic.
 Here is the [presentation](https://1drv.ms/p/s!AlrxwtK7Qzt-qX_MKMqDwhdAyamF?e=L8s39U)
 
 
@@ -16,14 +18,14 @@ To run the Semantic Search project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/semantic-search.git
-cd semantic-search
+gh repo clone deepanshululla/SemanticSearch
+cd SemanticSearch
 ```
 
 2. Install the required dependencies:
 
 ```
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 3. Run Docker-compose up for elasticsearch
