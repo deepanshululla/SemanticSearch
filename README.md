@@ -3,6 +3,12 @@
 Code and slides for the talk I gave on this topic.
 Here is the [presentation](https://1drv.ms/p/s!AlrxwtK7Qzt-qX_MKMqDwhdAyamF?e=L8s39U)
 
+It has two notebooks:
+
+[Notebook with Detailed Theory](./notebooks/DatahackSummit%20Semantic%20Search%20Theory.ipynb)
+
+[Notebook with hands on Code](./notebooks/DatahackSummit%20Semantic%20Search%20using%20vector%20Databases.ipynb)
+
 
 
 ## About
