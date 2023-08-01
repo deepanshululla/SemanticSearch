@@ -17,6 +17,8 @@ Semantic Search is a project that implements an advanced search functionality us
 
 This project aims to improve the search experience by going beyond traditional keyword-based searches and providing more accurate and contextually relevant results.
 
+This uses Open AI so you have to [create an OpenAI Key](https://gptforwork.com/help/gpt-for-docs/setup/create-openai-key).
+
 ## Installation
 
 To run the Semantic Search project locally, follow these steps:
@@ -39,6 +41,12 @@ conda env create -f environment.yml
 ```bash
 docker-compose up -d
 ```
+4. Create a file called openai in secrets folder.
+```
+❯ ls secret
+openai
+```
+5. Paste your OpenAI key into the openai file.
 
 
 
