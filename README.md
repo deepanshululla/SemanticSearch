@@ -48,7 +48,8 @@ openai
 ```
 5. Paste your OpenAI key into the openai file.
 
-6. You may also need to [setup kaggle key](https://www.analyticsvidhya.com/blog/2021/04/how-to-download-kaggle-datasets-using-jupyter-notebook/) to download the dataset.
+
+6. You may also need to [setup kaggle key](https://www.youtube.com/watch?v=b1j2jjfcMYA) download the dataset from kaggle.
 
 ## Usage
 
